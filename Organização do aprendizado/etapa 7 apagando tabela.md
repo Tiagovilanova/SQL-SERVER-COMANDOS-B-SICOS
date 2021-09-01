@@ -1,0 +1,1 @@
+drop table [TABELA DE ALIMENTOS]
